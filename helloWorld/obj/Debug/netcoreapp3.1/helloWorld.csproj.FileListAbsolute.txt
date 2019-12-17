@@ -1,0 +1,11 @@
+/Users/washizakikai/DevLocal/cs-project/book1/helloWorld/bin/Debug/netcoreapp3.1/helloWorld
+/Users/washizakikai/DevLocal/cs-project/book1/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.deps.json
+/Users/washizakikai/DevLocal/cs-project/book1/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.runtimeconfig.json
+/Users/washizakikai/DevLocal/cs-project/book1/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.runtimeconfig.dev.json
+/Users/washizakikai/DevLocal/cs-project/book1/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.dll
+/Users/washizakikai/DevLocal/cs-project/book1/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.pdb
+/Users/washizakikai/DevLocal/cs-project/book1/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.csprojAssemblyReference.cache
+/Users/washizakikai/DevLocal/cs-project/book1/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.AssemblyInfoInputs.cache
+/Users/washizakikai/DevLocal/cs-project/book1/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.AssemblyInfo.cs
+/Users/washizakikai/DevLocal/cs-project/book1/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.dll
+/Users/washizakikai/DevLocal/cs-project/book1/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.pdb
